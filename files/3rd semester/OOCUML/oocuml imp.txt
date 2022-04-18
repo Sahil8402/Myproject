@@ -1,0 +1,27 @@
+1.      What is an object?
+2.	What is the main advantage of object-oriented development?
+3.	What is Object Oriented System development methodology?
+4.	Distinguish between method and message in object.
+5.	What Is Analysis and Design?
+6.	What Is Object-Oriented Analysis and Design?
+7.	What is UML?
+8.	What are the primary goals in the design of UML?
+9.	 Define Class Diagram.
+10.	 Define Activity Diagram.
+11.	 What is interaction diagram? Mention the types of interaction diagram.
+12.	 What is Sequence Diagram?
+13.	 What is Collaboration Diagram?
+14.	 Define Start chart Diagram.
+15.	 What is meant by implementation diagram?
+16.	Prepare a class diagram for a graphical document editor that supports grouping. Assume that a document consists of several sheets. 
+Each sheet contains drawing objects, including text, geometrical objects and groups. 
+A group is simply a set of drawing objects, possibly including other groups. 
+A group must also contain at least two drawing objects. 
+A drawing object can be a direct member of at most one group. 
+Geometrical objects include circles, ellipses, rectangles, lines, and squares.
+
+17.Categorize the following relationship into generalization, aggregation, composition and association.  
+1)A drawing object is text, a geometrical object or group.
+ 2)Modems and keyboards are input/output devices.
+ 3)Car has accelerator, break and wheels as parts. 
+ 4)An account is either type savings or type current.
